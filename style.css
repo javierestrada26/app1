@@ -181,3 +181,14 @@ ul.slider li:target{
         padding: 35px 0px;
     }
 }
+
+.noticia_uno{
+    margin-bottom: 50px;
+    grid-gap: 50px;
+    padding: 45px 0px;
+}
+
+.noticia_dos{
+    text-align: end;
+    width: auto;
+}
